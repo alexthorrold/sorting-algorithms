@@ -1,0 +1,13 @@
+﻿  Sorting.cpp
+C:\Users\alext\OneDrive\Documents\C++\Sorting\Sorting.cpp(155,11): warning C4018: '<': signed/unsigned mismatch
+C:\Users\alext\OneDrive\Documents\C++\Sorting\Sorting.cpp(155,30): warning C4018: '<': signed/unsigned mismatch
+C:\Users\alext\OneDrive\Documents\C++\Sorting\Sorting.cpp(157,9): warning C4018: '<': signed/unsigned mismatch
+C:\Users\alext\OneDrive\Documents\C++\Sorting\Sorting.cpp(157,28): warning C4018: '<': signed/unsigned mismatch
+C:\Users\alext\OneDrive\Documents\C++\Sorting\Sorting.cpp(164,14): warning C4018: '<': signed/unsigned mismatch
+C:\Users\alext\OneDrive\Documents\C++\Sorting\Sorting.cpp(282,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\alext\OneDrive\Documents\C++\Sorting\Sorting.cpp(307,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\alext\OneDrive\Documents\C++\Sorting\Sorting.cpp(320,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\alext\OneDrive\Documents\C++\Sorting\Sorting.cpp(323,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\alext\OneDrive\Documents\C++\Sorting\Sorting.cpp(326,27): warning C4018: '<': signed/unsigned mismatch
+C:\Users\alext\OneDrive\Documents\C++\Sorting\Sorting.cpp(381,20): warning C4018: '<': signed/unsigned mismatch
+  Sorting.vcxproj -> C:\Users\alext\OneDrive\Documents\C++\Sorting\Debug\Sorting.exe
